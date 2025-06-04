@@ -1,3 +1,5 @@
+//auto edgar jair
+
 #include <stdio.h>
 
 int suma(int n){
