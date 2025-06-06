@@ -11,6 +11,7 @@ int suma(int n){
 
 int main(){
     print("hola mundo, como estas");
+    print("Hola a todos");
 }
 
 int factorial(int n){
