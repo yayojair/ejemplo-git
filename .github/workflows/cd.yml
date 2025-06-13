@@ -2,7 +2,7 @@ name: liberacion continua
 
 on:
     release:
-        types:created
+        types: created
 
 #para subir archivos al repositorio debe tener permiso de escritura
 permissions:
