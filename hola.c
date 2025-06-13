@@ -7,4 +7,6 @@
 int main(){
     printf("hola mundo, como estas");
     printf("Hola, Soy Carlos");
+    int *a = NULL;
+    *a=100;
 }
