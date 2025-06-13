@@ -1,19 +1,9 @@
 //auto edgar jair
 
 #include <stdio.h>
+#include "funciones.c"
 
-int suma(int n){
-    if(n==1) {
-        return 1;
-    }
-    return n * suma(n-1);
-}
 
 int main(){
     print("hola mundo, como estas");
-}
-
-int factorial(int n){
-    if(n == 0) return 1;
-    return n * factorial(n-1);
 }
