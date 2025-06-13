@@ -5,6 +5,6 @@
 
 
 int main(){
-    print("hola mundo, como estas");
-    print("Hola, Soy Carlos");
+    printf("hola mundo, como estas");
+    printf("Hola, Soy Carlos");
 }
